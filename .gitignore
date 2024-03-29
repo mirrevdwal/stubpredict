@@ -1,0 +1,9 @@
+# Exclude GSR data
+gunshot-residue/
+gunshot-residue.zip
+
+__pycache__/
+__pycache__/*
+
+figures/
+figures/*
